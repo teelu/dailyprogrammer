@@ -1,6 +1,8 @@
+# Challenge #316 [Intermediate] Sydney tourist shopping cart
+
 Taken from: [here](https://www.reddit.com/r/dailyprogrammer/comments/6d29om/20170524_challenge_316_intermediate_sydney/)
 
-# Description
+## Description
 
 This challenge is to build a tourist booking engine where customers can book tours and activities around the Sydney. Specially, you're task today is to build the shopping cart system. We will start with the following tours in our database.
 ```
@@ -27,7 +29,7 @@ sp.total();
 
 Your task is to implement the shopping cart system described above. You'll have to figure out the `promotionalRules` structure, for example.
 
-# Input Description
+## Input Description
 
 You'll be given an order, one order per line, using the IDs above. Example:
 ```
@@ -36,7 +38,7 @@ OH SK
 BC BC BC BC BC OH
 ```
 
-# Output Description
+## Output Description
 
 Using the weekly specials described above, your program should emit the total price for the tour group. Example:
 ```
@@ -46,7 +48,7 @@ OH, SK  = 300.00
 BC, BC, BC, BC, BC, OH = 750
 ```
 
-# Challenge Input
+## Challenge Input
 
 ```
 OH OH OH BC SK
@@ -55,6 +57,6 @@ BC BC BC BC BC BC OH OH
 SK SK BC
 ```
 
-#Credit
+##Credit
 
 This challenge was [posted](https://www.reddit.com/r/dailyprogrammer_ideas/comments/42n3zu/sydney_tourist_shopping_cart/) by [/u/peterbarberconsult](https://www.reddit.com/user/peterbarberconsult) in [/r/dailyprogrammer_ideas](https://www.reddit.com/r/dailyprogrammer_ideas/) quite a while ago, many thanks! If you have an idea please feel free to share it, there's a chance we'll use it.
