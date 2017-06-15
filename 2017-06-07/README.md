@@ -1,6 +1,6 @@
 # Challenge #318 [Intermediate] 2020 - NBA Revolution
 
-Taken from (here)[https://www.reddit.com/r/dailyprogrammer/comments/6ft96y/20170607_challenge_318_intermediate_2020_nba/]
+Taken from [here](https://www.reddit.com/r/dailyprogrammer/comments/6ft96y/20170607_challenge_318_intermediate_2020_nba/)
 
 ## Description
 
@@ -107,4 +107,4 @@ The number of rounds taking place over the weekends (on Saturdays or Sundays) mu
 
 ## Credit
 
-This challenge was suggested by user (/u/gabyjunior)[https://www.reddit.com/user/gabyjunior], many thanks. If you have a challenge idea, please share it in (/r/dailyprogrammer_ideas)[https://www.reddit.com/r/dailyprogrammer_ideas/] and there's a good chance we'll use it.
+This challenge was suggested by user [/u/gabyjunior](https://www.reddit.com/user/gabyjunior), many thanks. If you have a challenge idea, please share it in [/r/dailyprogrammer_ideas](https://www.reddit.com/r/dailyprogrammer_ideas/) and there's a good chance we'll use it.
